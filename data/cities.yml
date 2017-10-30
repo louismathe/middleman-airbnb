@@ -1,23 +1,9 @@
-- name: "Paris"
-  url: "https://kitt.lewagon.com/placeholder/cities/paris"
-  user: "papillard"
-
 - name: "Berlin"
   url: "https://kitt.lewagon.com/placeholder/cities/berlin"
   user: "Dahju"
-
 - name: "Barcelona"
   url: "https://kitt.lewagon.com/placeholder/cities/barcelona"
   user: "huguesto"
-
-- name: "Shangai"
-  url: "https://kitt.lewagon.com/placeholder/cities/shangai"
-  user: "ssaunier"
-
-- name: "Bali"
-  url: "https://kitt.lewagon.com/placeholder/cities/bali"
-  user: "louismathe"
-
 - name: "Tokyo"
   url: "https://kitt.lewagon.com/placeholder/cities/tokyo"
   user: "NathanHuberty"
